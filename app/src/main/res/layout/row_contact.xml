@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/pad_10dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/row_contact_name"
+        android:padding="@dimen/pad_5dp"
+        android:textColor="@color/tango_dark_black_4"
+        android:textSize="@dimen/txt_16dip"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/row_contact_email"
+        android:padding="@dimen/pad_2dp"
+        android:textColor="@color/tango_dark_black_2"
+        android:textSize="@dimen/txt_12dip"
+        android:layout_below="@+id/row_contact_name"
+        />
+
+
+
+</RelativeLayout>

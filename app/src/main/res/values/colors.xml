@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tango_white_shine">#ffffff</color>
+    <color name="tango_white_mid">#eeeeec</color>
+    <color name="tango_dark_black_4">#204a87</color>
+    <color name="tango_dark_black_2">#454545</color>
+
+
+</resources>
